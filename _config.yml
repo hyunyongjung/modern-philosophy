@@ -1,0 +1,16 @@
+title: Modern Philosophy
+description: A continuing inquiry into things too ordinary to question.
+
+author:
+  name: Hyunyong Jung
+
+theme: minima
+timezone: Asia/Seoul
+
+url: "https://hyunyongjung.github.io"
+baseurl: "/modern-philosophy"
+
+permalink: /essays/:title/
+
+header_pages:
+  - about.md
